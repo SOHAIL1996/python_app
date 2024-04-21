@@ -17,6 +17,12 @@
 pip install -r requirements.txt
 ```
 
+## Build App
+
+```bash
+buildozer -v android debug
+```
+
 ## For development
 
 - Create dependencies
